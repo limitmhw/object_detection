@@ -2,11 +2,12 @@
 目标检测开源代码
 
 
-原
+
 目标检测开源代码汇总 object detection algorithm codes
-2017年12月26日 14:31:00 O天涯海阁O 阅读数：3712更多
-个人分类： 源代码 目标检测
-目标检测发展线路图–https://github.com/hoya012/deep_learning_object_detection
+
+
+目标检测发展线路图–
+https://github.com/hoya012/deep_learning_object_detection
 
 车辆检测竞赛
 http://detrac-db.rit.albany.edu/DetRet 检测
